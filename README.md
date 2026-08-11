@@ -6,5 +6,5 @@ The goal of this repository is to consolidate the fundamental concepts, architec
 
 ## 📚 About
 
-Agentic AI systems go beyond traditional 
+Agentic AI systems go beyond traditional question-and-answer interactions 
 
