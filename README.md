@@ -57,6 +57,8 @@ Topics include:
 - Model inference
 - Temperature
 - Token generation
+- Model capabilities and limitations
+
 
 
 
