@@ -68,5 +68,7 @@ Key concepts:
 
 - Agent
 - Environment
+- Goals
+
 
 
