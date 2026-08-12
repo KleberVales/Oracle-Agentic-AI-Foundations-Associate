@@ -49,6 +49,9 @@ Understanding LLMs as the reasoning engine behind modern AI applications.
 
 Topics include:
 
+- LLM architecture
+
+
 
 
 
