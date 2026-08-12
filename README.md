@@ -27,3 +27,5 @@ This repository contains study notes and practical concepts related to:
 - Multi-agent systems
 
 ## 🧠 Topics
+
+1. Artificial Intelligence & Generative AI
