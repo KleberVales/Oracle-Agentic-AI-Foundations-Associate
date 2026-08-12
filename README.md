@@ -47,6 +47,8 @@ Fundamental concepts related to modern AI systems:
 
 Understanding LLMs as the reasoning engine behind modern AI applications.
 
+Topics include:
+
 
 
 
