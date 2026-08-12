@@ -31,3 +31,14 @@ This repository contains study notes and practical concepts related to:
 1. Artificial Intelligence & Generative AI
 
 Fundamental concepts related to modern AI systems:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Foundation Models
+- Large Language Models
+- Tokens
+- Context windows
+- Inference
+- Embeddings
