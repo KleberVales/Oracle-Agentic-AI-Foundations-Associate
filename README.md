@@ -70,6 +70,8 @@ Key concepts:
 - Environment
 - Goals
 - Reasoning
+- Actions
+
 
 
 
