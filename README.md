@@ -56,6 +56,7 @@ Topics include:
 - Context
 - Model inference
 - Temperature
+- Token generation
 
 
 
