@@ -8,3 +8,4 @@ The goal of this repository is to consolidate the fundamental concepts, architec
 
 Agentic AI systems go beyond traditional question-and-answer interactions with Large Language Models (LLMs).
 
+An AI agent can reason about a task, decide which actions are necessary, use external tools, maintain context, observe the results of those actions, and continue iterating until the objective is achieved.
