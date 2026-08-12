@@ -71,6 +71,8 @@ Key concepts:
 - Goals
 - Reasoning
 - Actions
+- Observations
+
 
 
 
