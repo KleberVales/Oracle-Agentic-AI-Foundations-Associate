@@ -74,6 +74,7 @@ Key concepts:
 - Observations
 - Tools
 - Agent loop
+- Planning
 
 
 
