@@ -60,13 +60,4 @@ Topics include:
 - Model capabilities and limitations
 
 
-
-
-
-
-
-
-
-
-
-
+3. AI Agents
