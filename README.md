@@ -45,6 +45,8 @@ Fundamental concepts related to modern AI systems:
 
 2. Large Language Models
 
+Understanding LLMs as the reasoning engine behind modern AI applications.
+
 
 
 
