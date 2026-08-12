@@ -67,4 +67,6 @@ Understanding the difference between a traditional LLM application and an agenti
 Key concepts:
 
 - Agent
+- Environment
+
 
