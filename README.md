@@ -29,3 +29,5 @@ This repository contains study notes and practical concepts related to:
 ## 🧠 Topics
 
 1. Artificial Intelligence & Generative AI
+
+Fundamental concepts related to modern AI systems:
