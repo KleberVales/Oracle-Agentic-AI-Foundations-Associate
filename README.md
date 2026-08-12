@@ -54,6 +54,8 @@ Topics include:
 - System prompts
 - User prompts
 - Context
+- Model inference
+
 
 
 
