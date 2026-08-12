@@ -28,7 +28,7 @@ This repository contains study notes and practical concepts related to:
 
 ## 🧠 Topics
 
-1. Artificial Intelligence & Generative AI
+### 1. Artificial Intelligence & Generative AI
 
 Fundamental concepts related to modern AI systems:
 
@@ -43,7 +43,7 @@ Fundamental concepts related to modern AI systems:
 - Inference
 - Embeddings
 
-2. Large Language Models
+### 2. Large Language Models
 
 Understanding LLMs as the reasoning engine behind modern AI applications.
 
@@ -60,8 +60,11 @@ Topics include:
 - Model capabilities and limitations
 
 
-3. AI Agents
+### 3. AI Agents
 
 Understanding the difference between a traditional LLM application and an agentic system.
 
 Key concepts:
+
+- Agent
+
