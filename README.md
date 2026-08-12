@@ -69,6 +69,8 @@ Key concepts:
 - Agent
 - Environment
 - Goals
+- Reasoning
+
 
 
 
