@@ -75,11 +75,4 @@ Key concepts:
 - Tools
 - Agent loop
 - Planning
-
-
-
-
-
-
-
-
+- Decision making
