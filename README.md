@@ -55,6 +55,8 @@ Topics include:
 - User prompts
 - Context
 - Model inference
+- Temperature
+
 
 
 
