@@ -72,6 +72,8 @@ Key concepts:
 - Reasoning
 - Actions
 - Observations
+- Tools
+
 
 
 
