@@ -11,3 +11,17 @@ Agentic AI systems go beyond traditional question-and-answer interactions with L
 An AI agent can reason about a task, decide which actions are necessary, use external tools, maintain context, observe the results of those actions, and continue iterating until the objective is achieved.
 
 This repository contains study notes and practical concepts related to:
+
+- Artificial Intelligence
+- Generative AI
+- Large Language Models (LLMs)
+- AI Agents
+- Agentic AI
+- Agentic workflows
+- Reasoning patterns
+- Tool calling
+- Memory
+- Agent architecture
+- Security
+- Evaluation
+- Multi-agent systems
