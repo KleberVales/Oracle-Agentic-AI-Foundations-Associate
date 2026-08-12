@@ -61,3 +61,7 @@ Topics include:
 
 
 3. AI Agents
+
+Understanding the difference between a traditional LLM application and an agentic system.
+
+Key concepts:
