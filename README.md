@@ -51,6 +51,8 @@ Topics include:
 
 - LLM architecture
 - Prompting
+- System prompts
+
 
 
 
