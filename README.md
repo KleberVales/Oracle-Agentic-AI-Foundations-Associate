@@ -73,6 +73,8 @@ Key concepts:
 - Actions
 - Observations
 - Tools
+- Agent loop
+
 
 
 
